@@ -45,10 +45,6 @@ Before running the project, make sure you have the following:
 
 ---
 
-<img width="165" alt="image" src="https://github.com/user-attachments/assets/bf8763ee-6a68-4da4-bb63-c44d74455a4b" />
-
----
-
 ## 🧪 How to Run
 
 1. **Clone the repository:**
@@ -105,7 +101,3 @@ Contributions and feature requests are welcome! Please open an issue or pull req
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
----
-=
