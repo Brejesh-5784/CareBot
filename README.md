@@ -1,5 +1,3 @@
-]
-
 # 🧠 CareBot – AI-Powered Medical Chatbot using LLMs & Pinecone
 
 CareBot is an **AI-driven medical chatbot** that answers healthcare-related queries based on **uploaded medical PDFs**.
